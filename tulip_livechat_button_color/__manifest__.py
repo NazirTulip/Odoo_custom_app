@@ -1,6 +1,6 @@
 {
     'name': 'Tulip Livechat Button Hover Color',
-    'version': '19.0.1.0.0',
+    'version': '18.0.1.0.0',
     'category': 'Website/Live Chat',
     'summary': 'Change hover color of buttons inside Live Chat to #00B3C6',
     'description': 'Overrides hover color for all buttons inside the Odoo Live Chat embed.',
