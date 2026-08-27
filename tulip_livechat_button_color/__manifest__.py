@@ -7,6 +7,8 @@
     'author': 'Tulip-tech',
     'website': 'https://tulip-tech.com',
     'license': 'LGPL-3',
+    'price': 1.0,
+    'currency': 'USD',
     'depends': ['im_livechat'],
     'data': [],
     'assets': {
