@@ -1,0 +1,21 @@
+$tulip-livechat-hover: #00b3c7;
+
+.o-mail-ChatWindow {
+    button:hover,
+    .btn:hover {
+        background-color: $tulip-livechat-hover !important;
+        border-color: $tulip-livechat-hover !important;
+        color: #ffffff !important;
+        --btn-color: #ffffff;
+        --btn-hover-color: #ffffff;
+        --btn-bg: #{$tulip-livechat-hover};
+        --btn-hover-bg: #{$tulip-livechat-hover};
+        --btn-border-color: #{$tulip-livechat-hover};
+        --btn-hover-border-color: #{$tulip-livechat-hover};
+    }
+}
+
+.o-livechat-LivechatButton:hover {
+    background-color: $tulip-livechat-hover !important;
+    filter: none;
+}
